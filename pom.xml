@@ -40,7 +40,7 @@
 
   <scm>
     <developerConnection>scm:git:git@github.com:brucehzhang/SpringPetClinicLearning.git</developerConnection>
-    <tag>0.0.4-SNAPSHOT</tag>
+    <tag>0.0.5-SNAPSHOT</tag>
   </scm>
 
 </project>
